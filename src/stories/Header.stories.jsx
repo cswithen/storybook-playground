@@ -20,5 +20,12 @@ LoggedIn.args = {
   },
 };
 
+LoggedIn.parameters = {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/gC7G4gjYj0RY4YgsR22Cq4/Storybook-Design-System-Test?node-id=1%3A15'
+ }
+}
+
 export const LoggedOut = Template.bind({});
 LoggedOut.args = {};
